@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/css/font-awesome.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="jumbotron">
+       
+        <h2>Welcome to Your Pokedex</h2>
+        <input type="text" class="input-sm" id="name" placeholder="Name"/>
+        <select id="type" class="input-sm">
+            <option value="electric">Electric</option>
+            <option value="grass">Grass</option>
+            <option value="water">Water</option>
+            <option value="fire">Fire</option>
+            <option value="ghost">Ghost</option>
+        </select>
+        <div class="btn btn-success btn-sm" onclick="app.create()" >Add Pokemon</div>
+    </div>
+
+    <div id="draw-table" class="table table-hover">
+
+    </div>
+    
+    <script src="Scripts/jquery-1.9.0.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

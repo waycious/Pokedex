@@ -1,0 +1,6 @@
+D:\Projects\WebApplication12\WebApplication12\bin\WebApplication12.dll.config
+D:\Projects\WebApplication12\WebApplication12\bin\WebApplication12.dll
+D:\Projects\WebApplication12\WebApplication12\bin\WebApplication12.pdb
+D:\Projects\WebApplication12\WebApplication12\obj\Debug\WebApplication12.csprojResolveAssemblyReference.cache
+D:\Projects\WebApplication12\WebApplication12\obj\Debug\WebApplication12.dll
+D:\Projects\WebApplication12\WebApplication12\obj\Debug\WebApplication12.pdb
